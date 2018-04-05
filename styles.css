@@ -71,16 +71,14 @@ footer {
 
 .main-nav li:hover  {
   transform: scale(1.1);
-  color:#F27071;
 }
 
 a:hover {
   color:#F27071;
 }
 
-.home:hover .heart-icon,
-.location:hover .location-icon,
-.contact:hover .contact-icon {
+.main-nav li:hover nav-icon,
+.main-nav li:hover a {
   fill:#F27071;
 }
 
