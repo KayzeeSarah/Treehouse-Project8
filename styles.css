@@ -94,9 +94,12 @@ a:hover {
   display: none;
 }
 
+.paw-logo {
+   transition: .3s ease-out;
+}
+
 .paw-logo:hover {
   transform:scale(1.2);
-  transition: .3s ease-out;
 }
 
 /* CORGI SVG STYLE */
