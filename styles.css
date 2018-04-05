@@ -77,7 +77,7 @@ a:hover {
   color:#F27071;
 }
 
-.main-nav li:hover nav-icon {
+.main-nav li:hover .nav-icon {
   fill:#F27071;
 }
 
